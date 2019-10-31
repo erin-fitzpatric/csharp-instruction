@@ -1,0 +1,10 @@
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\bin\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.deps.json
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\bin\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.runtimeconfig.json
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\bin\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.runtimeconfig.dev.json
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\bin\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.dll
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\bin\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.pdb
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\obj\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\obj\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\obj\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.AssemblyInfo.cs
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\obj\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.dll
+C:\repos\c#-instruction\ch02_prj1_StudentRegistrationApp\ch02_prj1_StudentRegistrationApp\obj\Debug\netcoreapp2.2\ch02_prj1_StudentRegistrationApp.pdb

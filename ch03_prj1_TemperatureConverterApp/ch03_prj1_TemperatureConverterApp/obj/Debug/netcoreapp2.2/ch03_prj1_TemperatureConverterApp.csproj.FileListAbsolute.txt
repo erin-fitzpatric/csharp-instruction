@@ -1,0 +1,11 @@
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\bin\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.deps.json
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\bin\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.runtimeconfig.json
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\bin\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.runtimeconfig.dev.json
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\bin\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.dll
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\bin\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.pdb
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\obj\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.csprojAssemblyReference.cache
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\obj\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.csproj.CoreCompileInputs.cache
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\obj\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.AssemblyInfoInputs.cache
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\obj\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.AssemblyInfo.cs
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\obj\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.dll
+C:\repos\c#-instruction\ch03_prj1_TemperatureConverterApp\ch03_prj1_TemperatureConverterApp\obj\Debug\netcoreapp2.2\ch03_prj1_TemperatureConverterApp.pdb
